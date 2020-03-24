@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="066fd2c1-b211-4527-bc24-0de68a04b942" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZYMBpLWBWXdgN0wUECCagWsV5V" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Color Scheme Font" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\code\java\seDemo\src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.TypeDemo">
+    <configuration name="HomeWork01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HomeWork01" />
+      <module name="seDemo" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Test" />
+      <module name="seDemo" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TypeDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TypeDemo" />
+      <module name="seDemo" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TypeDemo" />
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.HomeWork01" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="066fd2c1-b211-4527-bc24-0de68a04b942" name="Default Changelist" comment="" />
+      <created>1585011441407</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585011441407</updated>
+      <workItem from="1585011447585" duration="1461000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="275" y="27" key="#Project_Structure" timestamp="1585011455363">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="275" y="27" key="#Project_Structure/0.0.1366.738@0.0.1366.738" timestamp="1585011455363" />
+    <state x="525" y="258" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1585011847159">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="525" y="258" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1366.738@0.0.1366.738" timestamp="1585011847159" />
+    <state x="263" y="24" key="#com.intellij.openapi.projectRoots.ui.ProjectJdksEditor" timestamp="1585011841425">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="263" y="24" key="#com.intellij.openapi.projectRoots.ui.ProjectJdksEditor/0.0.1366.738@0.0.1366.738" timestamp="1585011841425" />
+    <state x="463" y="110" key="FileChooserDialogImpl" timestamp="1585012317057">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="463" y="110" key="FileChooserDialogImpl/0.0.1366.738@0.0.1366.738" timestamp="1585012317057" />
+    <state x="486" y="260" key="Github.CreateGistDialog" timestamp="1585012905555">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="486" y="260" key="Github.CreateGistDialog/0.0.1366.738@0.0.1366.738" timestamp="1585012905555" />
+    <state width="1306" height="221" key="GridCell.Tab.0.bottom" timestamp="1585012240588">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1306" height="221" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1585012240588" />
+    <state width="1306" height="221" key="GridCell.Tab.0.center" timestamp="1585012240587">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1306" height="221" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1585012240587" />
+    <state width="1306" height="221" key="GridCell.Tab.0.left" timestamp="1585012240587">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1306" height="221" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1585012240587" />
+    <state width="1306" height="221" key="GridCell.Tab.0.right" timestamp="1585012240587">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1306" height="221" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1585012240587" />
+    <state x="184" y="11" key="SettingsEditor" timestamp="1585012426966">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="184" y="11" key="SettingsEditor/0.0.1366.738@0.0.1366.738" timestamp="1585012426966" />
+  </component>
+</project>
